@@ -3,7 +3,7 @@ colorama==0.4.6
 distro==1.8.0
 openai==0.27.2
 playsound==1.2.2
-python-dotenv==1.0.0
+python-dotenv==1.2.2
 pyyaml==6.0
 readability-lxml==0.8.1
 requests
@@ -14,7 +14,7 @@ duckduckgo-search
 google-api-python-client #(https://developers.google.com/custom-search/v1/overview)
 pinecone-client==2.2.1
 redis
-orjson==3.8.10
+orjson==3.11.6
 Pillow
 selenium==4.1.4
 webdriver-manager
@@ -32,7 +32,7 @@ numpy
 pre-commit
 black
 isort
-gitpython==3.1.31
+gitpython==3.1.41
 auto-gpt-plugin-template
 mkdocs
 pymdown-extensions
